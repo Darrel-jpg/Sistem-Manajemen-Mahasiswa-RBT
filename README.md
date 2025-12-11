@@ -2,9 +2,8 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
 ![Data Structure](https://img.shields.io/badge/Data%20Structure-Red%20Black%20Tree-red.svg)
-![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 **Sistem manajemen data mahasiswa berbasis console menggunakan Red-Black Tree**
 
