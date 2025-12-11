@@ -257,7 +257,7 @@ sistem-manajemen-mahasiswa/
 
 <div align="center">
 
-### ⭐ Jika project ini bermanfaat, berikan star!
+### Jika project ini bermanfaat, berikan star ⭐
 
 **Made with ❤️ by Tim Struktur Data**
 
