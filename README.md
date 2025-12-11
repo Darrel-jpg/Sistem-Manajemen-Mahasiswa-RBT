@@ -64,19 +64,19 @@ students = tree.get_all_students()
 <td>
 
 ### 🔹 CRUD Operations
-- ➕ Tambah data mahasiswa
-- 🔍 Cari mahasiswa (by NIM)
-- ✏️ Update data mahasiswa
-- 🗑️ Hapus data mahasiswa
+- Tambah data mahasiswa
+- Cari mahasiswa (by NIM)
+- Update data mahasiswa
+- Hapus data mahasiswa
 
 </td>
 <td>
 
 ### 🔹 Fitur Tambahan
-- 📊 Statistik lengkap (IPK, jurusan)
-- 💾 Persistensi data (CSV)
-- 🎨 Tampilan tabel yang rapi
-- ⚡ Performa cepat dengan RBT
+- Statistik lengkap (IPK, jurusan)
+- Persistensi data (CSV)
+- Tampilan tabel yang rapi
+- Performa cepat dengan RBT
 
 </td>
 </tr>
@@ -187,8 +187,6 @@ sistem-manajemen-mahasiswa/
 ├── manajemen.py           # Class ManajemenMahasiswa & logika bisnis
 ├── rbt.py                 # Implementasi Red-Black Tree
 ├── data_mahasiswa.csv     # Database (auto-generated)
-├── README.md              # Dokumentasi
-└── requirements.txt       # Dependencies (optional)
 ```
 
 ### Penjelasan File
@@ -254,33 +252,6 @@ sistem-manajemen-mahasiswa/
 <p><strong>Mengapa O(log n)?</strong></p>
 <p>Red-Black Tree memastikan tree tetap seimbang dengan tinggi maksimal 2 log(n+1). Setiap operasi insert, search, dan delete hanya perlu melewati tinggi tree, sehingga kompleksitasnya O(log n).</p>
 </blockquote>
-
----
-
-## 📸 Screenshot
-
-<details>
-<summary><strong>Klik untuk melihat screenshot</strong></summary>
-
-### Menu Utama
-```
-==================================================
-         SISTEM MANAJEMEN MAHASISWA
-==================================================
-```
-
-### Tampilan Tabel
-```
-╒══════════════╤════════════════════════╤═══════════════════════╤═══════╕
-│ NIM          │ Nama                   │ Jurusan               │   IPK │
-╞══════════════╪════════════════════════╪═══════════════════════╪═══════╡
-│ 242410101001 │ Aulia Rahmawati        │ Sistem Informasi      │  3.55 │
-│ 242410101008 │ Eka Pratiwi            │ Sistem Informasi      │  3.40 │
-│ 242410101040 │ Dimas Aditama          │ Sistem Informasi      │  3.95 │
-╘══════════════╧════════════════════════╧═══════════════════════╧═══════╛
-```
-
-</details>
 
 ---
 
